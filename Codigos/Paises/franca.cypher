@@ -1,0 +1,2 @@
+// França
+CREATE (pf :Paises {nome:'França',cores:'Azul, Branco, Vermelho', capital:'Paris', area:'640 597 km²',populacao:65233271, linguasOficiais:'Francês',lema:'Liberdade, Igualdade, Fraternidade', moeda:'Euro (EUR), desde',anoMoeda:1999})

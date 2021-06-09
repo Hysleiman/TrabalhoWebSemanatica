@@ -1,0 +1,2 @@
+// Áustria
+CREATE (pc :Paises {nome:'Áustria',cores:'Vermelho, Branco', capital:'Viena', area:'83 871 km²',populacao:8751820, linguasOficiais:'Alemão',lema:'Terra de Montanhas, Terra no Rio', moeda:'Euro (EUR), desde ',anoMoeda:1999})

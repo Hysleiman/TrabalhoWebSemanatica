@@ -1,0 +1,10 @@
+CREATE(ma :FronteirasMaritimas {oceano:'Mar Báltico', area:'377.000 km²',id:100})
+Continente:	
+Europeu
+Oceanos:
+oceano Atlântico
+CREATE(ma :FronteirasMaritimas {oceano:'mar do Norte', area:'570.000 km²',})
+Continente:
+Europeu
+Oceanos:
+oceano Atlântico

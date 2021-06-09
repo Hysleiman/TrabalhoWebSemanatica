@@ -1,0 +1,1 @@
+MATCH (n) WHERE id(n) = 26 DELETE n 

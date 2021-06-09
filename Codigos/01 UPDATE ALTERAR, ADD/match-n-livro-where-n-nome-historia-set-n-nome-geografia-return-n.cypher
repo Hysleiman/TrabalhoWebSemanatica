@@ -1,0 +1,1 @@
+MATCH(n :Livro) WHERE n.nome='Historia' SET n.nome='Geografia' RETURN n

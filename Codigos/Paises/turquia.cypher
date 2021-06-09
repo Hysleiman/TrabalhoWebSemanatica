@@ -1,0 +1,2 @@
+// Turquia
+CREATE (ph :Paises {nome:'Turquia',cores:'Vermelho, branco', capital:'Ancara', area:'783 562 km²',populacao:81916871, linguasOficiais:'Turco',lema:'Paz em casa, Paz no mundo', moeda:'Lira turca (TRY), desde',anoMoeda:2005})

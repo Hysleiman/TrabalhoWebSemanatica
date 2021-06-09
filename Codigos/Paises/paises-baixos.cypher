@@ -1,0 +1,2 @@
+// Países Baixos
+CREATE (pl :Paises {nome:'Países Baixos',cores:'Vermelho, Branco, Azul', capital:'Amesterdão', area:'41 540 km²',populacao:17084459, linguasOficiais:'Neerlandês',lema:'Eu manterei', moeda:'Euro (EUR), desde',anoMoeda:1999})

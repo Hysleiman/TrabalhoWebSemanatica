@@ -1,0 +1,72 @@
+1 -CREATE (pa :Paises {nome:'Alemanha',cores:'Preto, Vermelho, Amarelo', capital:'Berlim', area:'357 021 km²',populacao:82293457, linguasOficiais:'Alemão',lema:'União e Justiça e Liberdade', moeda:'Euro (EUR), desde',anoMoeda:1999}) 		
+
+			Europeu
+
+2 -CREATE (pb :Paises {nome:'Brasil',cores:'Verde, Amarelo, Azul', capital:'Brasília', area:'8 514 880 km²',populacao:210867954, linguasOficiais:'Português',lema:'Ordem e Progresso', moeda:'Real (BRL), desde' ,anoMoeda:1994}) 		
+			
+			Americano
+
+3 -CREATE (pc :Paises {nome:'Áustria',cores:'Vermelho, Branco', capital:'Viena', area:'83 871 km²',populacao:8751820, linguasOficiais:'Alemão',lema:'Terra de Montanhas, Terra no Rio', moeda:'Euro (EUR), desde ',anoMoeda:1999}) 	
+			
+			Europeu
+
+4 -CREATE (pd :Paises {nome:'Hungria',cores:'Vermelho, Branco, verde', capital:'Budapeste', area:'93 028 km²',populacao:9688847, linguasOficiais:'Húngaro', lema:' ', moeda:'Florim húngaro (HUF), desde ',anoMoeda:1946}) 		
+
+			Europeu
+
+5 -CREATE (pe :Paises {nome:'Estados Unidos',cores:'Vermelho, Branco, Azul', capital:'Washington, D.C.', area:'9 371 180 km²',populacao:326766748, linguasOficiais:'Inglês',lema:'Em Deus Confiamos, De Muitos, Um', moeda:'Dólar dos Estados Unidos (USD) ',anoMoeda:0000}) 
+				
+			Americano
+
+6 -CREATE (pf :Paises {nome:'França',cores:'Azul, Branco, Vermelho', capital:'Paris', area:'640 597 km²',populacao:65233271, linguasOficiais:'Francês',lema:'Liberdade, Igualdade, Fraternidade', moeda:'Euro (EUR), desde',anoMoeda:1999})
+				
+			Europeu
+
+7 -CREATE (pg :Paises {nome:'Reino Unido',cores:'Azul, Branco, Vermelho', capital:'Londres', area:'242 900 km²',populacao:66573504, linguasOficiais:'Inglês',lema:'Deus e meu direito', moeda:'Libra esterlina (GBP)',anoMoeda:0000})
+				
+			Europeu
+
+8 -CREATE (ph :Paises {nome:'Turquia',cores:'Vermelho, branco', capital:'Ancara', area:'783 562 km²',populacao:81916871, linguasOficiais:'Turco',lema:'Paz em casa, Paz no mundo', moeda:'Lira turca (TRY), desde',anoMoeda:2005})
+				
+			Europeu
+
+9 -CREATE (pi :Paises {nome:'Itália',cores:'Verde, branco,Vermelho', capital:'Roma', area:'301 336 km²',populacao:59290969, linguasOficiais:'Italiano',lema:' ', moeda:'Euro (EUR), desde',anoMoeda:1999})
+
+			Europeu
+
+
+10 -CREATE (pj :Paises {nome:'Japão',cores:'Branco,Vermelho', capital:'Tóquio', area:'377 930 km²',populacao:127185332, linguasOficiais:'Japones',lema:' ', moeda:'Iene japonês (JPY), desde',anoMoeda:0000})
+				
+			Asiático
+
+11 -CREATE (pk :Paises {nome:'Luxemburgo',cores:'Vermelho, Branco, Azul', capital:'Luxemburgo', area:'2 586 km²',populacao:590321, linguasOficiais:'Alemão, Francês, Luxemburguês',lema:'Queremos permanecer o que somos', moeda:'Euro (EUR), desde',anoMoeda:1999})
+				
+			Europeu
+
+12 -CREATE (pl :Paises {nome:'Países Baixos',cores:'Vermelho, Branco, Azul', capital:'Amesterdão', area:'41 540 km²',populacao:17084459, linguasOficiais:'Neerlandês',lema:'Eu manterei', moeda:'Euro (EUR), desde',anoMoeda:1999})
+
+			Europeu
+
+
+13 -CREATE (pm :Paises {nome:'Portugal',cores:'Verde, Vermelho', capital:'Lisboa', area:'92 090 km²',populacao:10291196, linguasOficiais:'Português',lema:' ', moeda:'Euro (EUR), desde',anoMoeda:1999})
+
+			Europeu
+
+14 -CREATE (pn :Paises {nome:'Roménia',cores:'Azul, Amarelo, Vermelho', capital:'Bucareste', area:'238 391 km²',populacao:19580634, linguasOficiais:'Romeno',lema:' ', moeda:'Leu romeno (RON), desde',anoMoeda:2005})
+
+			Europeu
+
+
+15 -CREATE (po :Paises {nome:'Rússia',cores:'Branco, Azul, Vermelho', capital:'Moscovo', area:'17 098 200 km²',populacao:143964709, linguasOficiais:'Russo',lema:' ', moeda:'Rublo russo (RUB), desde',anoMoeda:1998})
+
+			Europeu
+
+
+16 -CREATE (pp :Paises {nome:'Austrália',cores:'Azul, Branco, Vermelho', capital:'Camberra', area:'7 692 060 km²',populacao:24772247, linguasOficiais:'Inglês',lema:'Advance Australia Fair', moeda:' Dólar australiano (AUD), desde',anoMoeda:1966})
+
+			Oceania
+
+
+17 -CREATE (pq :Paises {nome:'Taiuã',cores:'Azul, Branco, Vermelho', capital:'Taipé', area:'36 191 km²',populacao:23519518, linguasOficiais:'Mandarim padrão',lema:' ', moeda:'Novo dólar de Taiuã (TWD), desde',anoMoeda:1949})
+
+			Asiático

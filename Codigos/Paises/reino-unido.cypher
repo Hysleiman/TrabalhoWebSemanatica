@@ -1,0 +1,2 @@
+// Reino Unido
+CREATE (pg :Paises {nome:'Reino Unido',cores:'Azul, Branco, Vermelho', capital:'Londres', area:'242 900 km²',populacao:66573504, linguasOficiais:'Inglês',lema:'Deus e meu direito', moeda:'Libra esterlina (GBP)',anoMoeda:0000})

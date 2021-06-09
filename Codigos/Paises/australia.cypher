@@ -1,0 +1,2 @@
+// Austrália
+CREATE (pp :Paises {nome:'Austrália',cores:'Azul, Branco, Vermelho', capital:'Camberra', area:'7 692 060 km²',populacao:24772247, linguasOficiais:'Inglês',lema:'Advance Australia Fair', moeda:' Dólar australiano (AUD), desde',anoMoeda:1966})

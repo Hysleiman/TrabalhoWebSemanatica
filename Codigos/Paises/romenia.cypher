@@ -1,0 +1,2 @@
+// Roménia
+CREATE (pn :Paises {nome:'Roménia',cores:'Azul, Amarelo, Vermelho', capital:'Bucareste', area:'238 391 km²',populacao:19580634, linguasOficiais:'Romeno',lema:' ', moeda:'Leu romeno (RON), desde',anoMoeda:2005})

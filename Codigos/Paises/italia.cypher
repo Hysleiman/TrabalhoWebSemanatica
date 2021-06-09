@@ -1,0 +1,2 @@
+// Itália
+CREATE (pi :Paises {nome:'Itália',cores:'Verde, branco,Vermelho', capital:'Roma', area:'301 336 km²',populacao:59290969, linguasOficiais:'Italiano',lema:' ', moeda:'Euro (EUR), desde',anoMoeda:1999})

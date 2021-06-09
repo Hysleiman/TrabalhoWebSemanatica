@@ -1,0 +1,1 @@
+MATCH(n :Livro {nome:'Geografia'}) SET n.nome='Historia' RETURN n

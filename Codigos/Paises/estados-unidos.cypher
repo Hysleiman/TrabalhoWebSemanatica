@@ -1,0 +1,2 @@
+// Estados Unidos
+CREATE (pe :Paises {nome:'Estados Unidos',cores:'Vermelho, Branco, Azul', capital:'Washington, D.C.', area:'9 371 180 km²',populacao:326766748, linguasOficiais:'Inglês',lema:'Em Deus Confiamos, De Muitos, Um', moeda:'Dólar dos Estados Unidos (USD) ',anoMoeda:0000})

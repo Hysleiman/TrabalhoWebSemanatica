@@ -1,0 +1,26 @@
+CREATE(a1 :Aliancas{nome:'Impérios Centrais', id:350})
+
+CREATE(a2:Aliancas{nome:'Tríplice Entente', id:351})
+
+CREATE(a3 :Aliancas{nome:'Tríplice Aliança', id:352})
+
+CREATE(u1 :uniao{nome:'Império Austro-Húngaro', id:356})
+
+
+MATCH (pc:Paises),(u1 :uniao) 
+WHERE pc.nome='Áustria' AND u1.nome='Império Austro-Húngaro' 
+CREATE (pc)-[rc :uniao]->(u1)
+	RETURN pc, u1,rc
+
+MATCH (pd:Paises),(u1 :uniao) 
+WHERE pd.nome='Hungria' AND u1.nome='Império Austro-Húngaro' 
+CREATE (pd)-[rd :uniao]->(u1)
+	RETURN pd, u1,rd
+
+MATCH (pd:Paises),(pc:Paises) 
+WHERE pd.nome='Hungria' AND pc.nome='Áustria' 
+CREATE (pd)<-[rcd :relacoes]-(pc)
+	RETURN pd, pc,rcd
+
+
+

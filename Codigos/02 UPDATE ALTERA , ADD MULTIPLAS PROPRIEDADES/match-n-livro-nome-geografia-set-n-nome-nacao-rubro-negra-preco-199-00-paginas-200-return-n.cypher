@@ -1,0 +1,1 @@
+MATCH(n :Livro{nome:'Geografia'}) SET n +={nome:'Nação Rubro negra',preco:199.00, paginas:200} RETURN n

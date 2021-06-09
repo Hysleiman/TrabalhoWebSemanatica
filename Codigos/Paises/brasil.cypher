@@ -1,0 +1,2 @@
+// Brasil
+CREATE (pb :Paises {nome:'Brasil',cores:'Verde, Amarelo, Azul', capital:'Brasília', area:'8 514 880 km²',populacao:210867954, linguasOficiais:'Português',lema:'Ordem e Progresso', moeda:'Real (BRL), desde' ,anoMoeda:1994})

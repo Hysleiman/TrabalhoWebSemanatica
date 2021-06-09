@@ -1,0 +1,2 @@
+// Rússia
+CREATE (po :Paises {nome:'Rússia',cores:'Branco, Azul, Vermelho', capital:'Moscovo', area:'17 098 200 km²',populacao:143964709, linguasOficiais:'Russo',lema:' ', moeda:'Rublo russo (RUB), desde',anoMoeda:1998})

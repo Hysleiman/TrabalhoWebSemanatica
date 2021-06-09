@@ -1,0 +1,132 @@
+CREATE (p :Paises {nome:'Alemanha',cores:'Preto, Vermelho, Amarelo', capital:'Berlim', area:'357 021 km²',populacao:82293457, linguasOficiais:'Alemão',lema:'União e Justiça e Liberdade', moeda:'Euro (EUR), desde',anoMoeda:1999})
+
+Países vizinhos : Bélgica, Dinamarca, França, Luxemburgo, Países Baixos, Polónia, República Checa, Suíça, Áustria
+
+Fronteiras marítimas : Mar Báltico, Mar do Norte
+
+------------------------------------------------------------------------------------------------------------------
+
+CREATE (p :Paises {nome:'Brasil',cores:'Verde, Amarelo, Azul', capital:'Brasília', area:'8 514 880 km²',populacao:210867954, linguasOficiais:'Português',lema:'Ordem e Progresso', moeda:'Real (BRL), desde' ,anoMoeda:1994})
+
+Países vizinhos : Argentina, Bolívia, Colômbia, Guiana, Paraguai, Peru, Suriname, Uruguai, Venezuela
+
+Fronteiras marítimas : Oceano Atlântico
+
+-------------------------------------------------------------------------------------------------------------------
+
+CREATE (p :Paises {nome:'Áustria',cores:'Vermelho, Branco', capital:'Viena', area:'83 871 km²',populacao:8751820, linguasOficiais:'Alemão',lema:'Terra de Montanhas, Terra no Rio', moeda:'Euro (EUR), desde ',anoMoeda:1999})
+
+Países vizinhos : Alemanha, Eslováquia, Eslovénia, Hungria, Itália, Listenstaine, República Checa, Suíça
+
+Áustria-Hungria
+--------------------------------------------------------------------------------------------------------------------
+
+CREATE (p :Paises {nome:'Hungria',cores:'Vermelho, Branco, verde', capital:'Budapeste', area:'93 028 km²',populacao:9688847, linguasOficiais:'Húngaro', lema:' ', moeda:'Florim húngaro (HUF), desde ',anoMoeda:1946})
+
+Países vizinhos : Croácia, Eslováquia, Eslovénia, Roménia, Sérvia, Ucrânia, Áustria
+
+Áustria-Hungria
+--------------------------------------------------------------------------------------------------------------------
+
+CREATE (p :Paises {nome:'Estados Unidos',cores:'Vermelho, Branco, Azul', capital:'Washington, D.C.', area:'9 371 180 km²',populacao:326766748, linguasOficiais:'Inglês',lema:'Em Deus Confiamos, De Muitos, Um', moeda:'Dólar dos Estados Unidos (USD) ',anoMoeda:})
+
+Países vizinhos : Canadá, México
+
+Fronteiras marítimas : Oceano Atlântico, Oceano Pacífico
+
+
+--------------------------------------------------------------------------------------------------------------------
+CREATE (p :Paises {nome:'França',cores:'Azul, Branco, Vermelho', capital:'Paris', area:'640 597 km²',populacao:65233271, linguasOficiais:'Francês',lema:'Liberdade, Igualdade, Fraternidade', moeda:'Euro (EUR), desde',anoMoeda:1999})
+
+Países vizinhos : Alemanha, Andorra, Bélgica, Espanha, Itália, Luxemburgo, Mónaco, Suíça
+
+Fronteiras marítimas : Canal da Mancha, Mar Mediterrâneo, Mar Tirreno, Mar do Norte, Oceano Atlântico
+
+--------------------------------------------------------------------------------------------------------------------
+
+CREATE (p :Paises {nome:'Reino Unido',cores:'Azul, Branco, Vermelho', capital:'Londres', area:'242 900 km²',populacao:66573504, linguasOficiais:'Inglês',lema:'Deus e meu direito', moeda:'Libra esterlina (GBP)',anoMoeda:})
+
+País vizinho : Irlanda
+
+Fronteiras marítimas : Canal da Mancha, Mar da Irlanda, Mar do Norte, Oceano Atlântico
+
+--------------------------------------------------------------------------------------------------------------------
+
+CREATE (p :Paises {nome:'Turquia',cores:'Vermelho, branco', capital:'Ancara', area:'783 562 km²',populacao:81916871, linguasOficiais:'Turco',lema:'Paz em casa, Paz no mundo', moeda:'Lira turca (TRY), desde',anoMoeda:2005})
+
+Países vizinhos : Arménia, Azerbaijão, Bulgária, Geórgia, Grécia, Iraque, Irão, Síria
+
+Fronteiras marítimas : Mar Egeu, Mar Mediterrâneo, Mar Negro
+
+Império Turco-Otomano
+
+--------------------------------------------------------------------------------------------------------------------
+
+CREATE (p :Paises {nome:'Itália',cores:'Verde, branco,Vermelho', capital:'Roma', area:'301 336 km²',populacao:59290969, linguasOficiais:'Italiano',lema:' ', moeda:'Euro (EUR), desde',anoMoeda:1999})
+
+Países vizinhos : Eslovénia, França, Suíça, São Marinho, Vaticano, Áustria
+
+Fronteiras marítimas : Mar Adriático, Mar Jônico, Mar Mediterrâneo, Mar Tirreno
+
+--------------------------------------------------------------------------------------------------------------------
+
+CREATE (p :Paises {nome:'Japão',cores:'Branco,Vermelho', capital:'Tóquio', area:'377 930 km²',populacao:127185332, linguasOficiais:'Japones',lema:' ', moeda:'Iene japonês (JPY), desde',anoMoeda:})
+
+
+Fronteiras marítimas : Mar do Japão, Oceano Pacífico
+
+--------------------------------------------------------------------------------------------------------------------
+
+CREATE (p :Paises {nome:'Luxemburgo',cores:'Vermelho, Branco, Azul', capital:'Luxemburgo', area:'2 586 km²',populacao:590321, linguasOficiais:'Alemão, Francês, Luxemburguês',lema:'Queremos permanecer o que somos', moeda:'Euro (EUR), desde',anoMoeda:1999})
+
+Países vizinhos : Alemanha, Bélgica, França
+
+--------------------------------------------------------------------------------------------------------------------
+CREATE (p :Paises {nome:'Países Baixos',cores:'Vermelho, Branco, Azul', capital:'Amesterdão', area:'41 540 km²',populacao:17084459, linguasOficiais:'Neerlandês',lema:'Eu manterei', moeda:'Euro (EUR), desde',anoMoeda:1999})
+
+Países vizinhos : Alemanha, Bélgica
+
+Fronteiras marítimas : Mar do Norte
+--------------------------------------------------------------------------------------------------------------------
+CREATE (p :Paises {nome:'Portugal',cores:'Verde, Vermelho', capital:'Lisboa', area:'92 090 km²',populacao:10291196, linguasOficiais:'Português',lema:' ', moeda:'Euro (EUR), desde',anoMoeda:1999})
+
+País vizinho : Espanha
+
+Fronteiras marítimas : Oceano Atlântico
+--------------------------------------------------------------------------------------------------------------------
+
+CREATE (p :Paises {nome:'Roménia',cores:'Azul, Amarelo, Vermelho', capital:'Bucareste', area:'238 391 km²',populacao:19580634, linguasOficiais:'Romeno',lema:' ', moeda:'Leu romeno (RON), desde',anoMoeda:2005})
+
+Países vizinhos : Bulgária, Hungria, Moldávia, Sérvia, Ucrânia
+
+Fronteiras marítimas : Mar Negro
+
+--------------------------------------------------------------------------------------------------------------------
+
+CREATE (p :Paises {nome:'Rússia',cores:'Branco, Azul, Vermelho', capital:'Moscovo', area:'17 098 200 km²',populacao:143964709, linguasOficiais:'Russo',lema:' ', moeda:'Rublo russo (RUB), desde',anoMoeda:1998})
+
+Países vizinhos : Azerbaijão, Bielorrússia, Cazaquistão, China, Coreia do Norte, Estónia, Finlândia, Geórgia, Letónia, Lituânia, Mongólia, Noruega, Polónia, Ucrânia
+
+Fronteiras marítimas : Mar Báltico, Mar Cáspio, Mar Negro, Mar de Azov, Mar de Barents, Oceano Pacífico, Oceano Ártico
+--------------------------------------------------------------------------------------------------------------------
+
+CREATE (p :Paises {nome:'Austrália',cores:'Azul, Branco, Vermelho', capital:'Camberra', area:'7 692 060 km²',populacao:24772247, linguasOficiais:'Inglês',lema:'Advance Australia Fair', moeda:' Dólar australiano (AUD), desde',anoMoeda:1966})
+
+
+Fronteiras marítimas : Mar de Arafura, Mar de Coral, Mar de Tasman, Mar de Timor, Oceano Índico
+--------------------------------------------------------------------------------------------------------------------
+
+CREATE (p :Paises {nome:'Taiuã',cores:'Azul, Branco, Vermelho', capital:'Taipé', area:'36 191 km²',populacao:23519518, linguasOficiais:'Mandarim padrão',lema:' ', moeda:'Novo dólar de Taiuã (TWD), desde',anoMoeda:1949})
+
+
+Fronteiras marítimas : Mar da China Meridional
+
+
+
+
+
+
+
+
+
+

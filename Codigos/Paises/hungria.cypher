@@ -1,0 +1,2 @@
+// Hungria
+CREATE (pd :Paises {nome:'Hungria',cores:'Vermelho, Branco, verde', capital:'Budapeste', area:'93 028 km²',populacao:9688847, linguasOficiais:'Húngaro', lema:' ', moeda:'Florim húngaro (HUF), desde ',anoMoeda:1946})

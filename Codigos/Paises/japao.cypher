@@ -1,0 +1,2 @@
+// Japão
+CREATE (pj :Paises {nome:'Japão',cores:'Branco,Vermelho', capital:'Tóquio', area:'377 930 km²',populacao:127185332, linguasOficiais:'Japones',lema:' ', moeda:'Iene japonês (JPY), desde',anoMoeda:0000})

@@ -1,0 +1,2 @@
+// Taiuã
+CREATE (pq :Paises {nome:'Taiuã',cores:'Azul, Branco, Vermelho', capital:'Taipé', area:'36 191 km²',populacao:23519518, linguasOficiais:'Mandarim padrão',lema:' ', moeda:'Novo dólar de Taiuã (TWD), desde',anoMoeda:1949})
